@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJ51i9+QIQ65h85xrPa+x6M+C+rOT0FdfxjTXSqnpgYfQ5bFI+/pXAWCE4qocIbgJ3wQqhgtxZ/Nub9MMI+fUw==",
+  "dgSpecHash": "XyefKhl8KIsKYAEW4kveqOQJEtrNSPsgHP5LdWiIF2ayGsGM+a05solnHQHmkYJQ2Psmnfgz0uLdhS7WINa6OQ==",
   "success": true,
-  "projectFilePath": "C:\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
+  "projectFilePath": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\itext\\8.0.3\\itext.8.0.3.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\itext.commons\\8.0.3\\itext.commons.8.0.3.nupkg.sha512",

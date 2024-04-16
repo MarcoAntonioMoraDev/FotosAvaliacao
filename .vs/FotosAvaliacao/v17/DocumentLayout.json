@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FotosAvaliacao\\",
+  "WorkspaceRootPath": "C:\\Apps\\FotosAvaliacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEEB7A15-AAD9-4FCD-8BC3-660450AC87B3}|FotosAvaliacao\\FotosAvaliacao.csproj|c:\\fotosavaliacao\\fotosavaliacao\\controllers\\fotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEEB7A15-AAD9-4FCD-8BC3-660450AC87B3}|FotosAvaliacao\\FotosAvaliacao.csproj|c:\\apps\\fotosavaliacao\\fotosavaliacao\\controllers\\fotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEEB7A15-AAD9-4FCD-8BC3-660450AC87B3}|FotosAvaliacao\\FotosAvaliacao.csproj|solutionrelative:fotosavaliacao\\controllers\\fotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 25,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +25,18 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FotosController.cs",
-              "DocumentMoniker": "C:\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
+              "DocumentMoniker": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
               "RelativeDocumentMoniker": "FotosAvaliacao\\Controllers\\FotosController.cs",
-              "ToolTip": "C:\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
+              "ToolTip": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
               "RelativeToolTip": "FotosAvaliacao\\Controllers\\FotosController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T18:33:34.991Z",
               "EditorCaption": ""

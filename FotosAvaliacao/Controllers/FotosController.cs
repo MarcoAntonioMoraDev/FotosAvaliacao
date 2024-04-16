@@ -56,7 +56,7 @@ namespace PhotoAPI.Controllers
                         PdfPage page = document.AddPage();
                         XGraphics gfx = XGraphics.FromPdfPage(page);
                         XImage image = XImage.FromStream(copiedStream);
-                        gfx.DrawImage(image, 0, 0, 595, 842); // You might need to adjust the dimensions according to your requirements
+                        gfx.DrawImage(image, 0, 0, 595, 842); // ajustar as dimensões de acordo com suas necessidades
                     }
                 }
 

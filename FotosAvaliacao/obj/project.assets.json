@@ -5779,11 +5779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
+      "projectUniqueName": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
       "projectName": "FotosAvaliacao",
-      "projectPath": "C:\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
+      "projectPath": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\FotosAvaliacao.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\FotosAvaliacao\\FotosAvaliacao\\obj\\",
+      "outputPath": "C:\\Apps\\FotosAvaliacao\\FotosAvaliacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
