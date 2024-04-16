@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "PhotoAPI.Controllers.PhotoController",
+    "Method": "CreatePdf",
+    "RelativePath": "api/Photo/create-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileNames",
+        "Type": "System.String[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhotoAPI.Controllers.PhotoController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Photo/send-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailRequest",
+        "Type": "PhotoAPI.Controllers.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhotoAPI.Controllers.PhotoController",
+    "Method": "Upload",
+    "RelativePath": "api/Photo/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

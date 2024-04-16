@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FotosAvaliacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEB7A15-AAD9-4FCD-8BC3-660450AC87B3}|FotosAvaliacao\\FotosAvaliacao.csproj|c:\\fotosavaliacao\\fotosavaliacao\\controllers\\fotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEB7A15-AAD9-4FCD-8BC3-660450AC87B3}|FotosAvaliacao\\FotosAvaliacao.csproj|solutionrelative:fotosavaliacao\\controllers\\fotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 25,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FotosController.cs",
+              "DocumentMoniker": "C:\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
+              "RelativeDocumentMoniker": "FotosAvaliacao\\Controllers\\FotosController.cs",
+              "ToolTip": "C:\\FotosAvaliacao\\FotosAvaliacao\\Controllers\\FotosController.cs",
+              "RelativeToolTip": "FotosAvaliacao\\Controllers\\FotosController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:33:34.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
